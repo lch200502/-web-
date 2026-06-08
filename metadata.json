@@ -1,0 +1,6 @@
+{
+  "name": "数字化医生工作台",
+  "description": "模块化、全流程集成的数字化医生临床工作平台，支持在线问诊、电子病历、处方开立、康复评估、智能导诊审核及临床多维指标统计。",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
